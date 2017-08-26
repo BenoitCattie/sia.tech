@@ -9,7 +9,7 @@
   translation: "FAQ"
 
 - id: title_getsiacoin
-  translation: "Obtenez des Siacoin"
+  translation: "Obtenez des Siacoins"
 
 - id: title_getstarted
   translation: "Commencer maintenant"
@@ -24,7 +24,7 @@
   translation: "Communauté"
 
 - id: header_getsiacoin
-  translation: "Obtenez des Siacoin"
+  translation: "Obtenez des Siacoins"
 
 ### discover ###
 - id: discover_header
@@ -40,7 +40,7 @@
   translation: "Explorateur Blockchain"
 
 - id: discover_devdocs
-  translation: "Docs du Développeur"
+  translation: "Docs du développeur"
 
 ### footer ###
 - id: footer_navheader
@@ -226,7 +226,7 @@
   translation: "Juillet 2016: Sia sur Poloniex, YUNBI, Bitsquare, et ShapeShift"
 
 - id: milestones_funding2016
-  translation: "Août 2016: Nebulous lève $750k pour Sia"
+  translation: "Août 2016: Nebulous lève 750 000 $ pour Sia"
 
 
 # URL: /apps/index.html
@@ -540,7 +540,7 @@
   translation: "Yunbi est une bourse d'échange orientée vers le futur pour les actifs blockchain. Fondée à Beijing en 2013, et construit avec le code publié par Peatio Open Source Project, Yunbi adhère aux principes d'intégrité, de transparence et d'être une source ouverte, offrant à ses clients une plateforme de d'échange sécuritaire et facile."
 
 - id: getsiacoin_btn
-  translation: "Obtenez des Siacoin"
+  translation: "Obtenez des Siacoins"
 
 
 # URL: /get-started.html
@@ -559,7 +559,7 @@
   translation: "Je veux utiliser Sia pour stocker mes données"
 
 - id: getstarted_storeh
-  translation: "Emmagasiner mes Siacoins" # TODO: i18n: update translation - Not shown on website ?
+  translation: "Stocker vos fichiers"
 
 - id: getstarted_storestep1
   translation: "Télécharger <a href=\"../apps/#ui\">Sia-UI</a>"
@@ -570,6 +570,9 @@
 - id: getstarted_storestep3
   translation: "Stockez vos fichiers"
 
+id: getstarted_storestep4
+  translation: "Suivez le <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">guide sur le stockage de fichiers</a>"
+
 ### farm ###
 - id: getstarted_farmiconh
   translation: "Héberger"
@@ -578,16 +581,16 @@
   translation: "Je veux louer mon espace de stockage contre des Siacoins"
 
 - id: getstarted_farmh
-  translation: "Héberger des données"
+  translation: "Percevez des Siacoins"
 
 - id: getstarted_farmstep1
   translation: "Télécharger <a href=\"../apps/#ui\">Sia-UI</a>"
 
 - id: getstarted_farmstep2
-  translation: "Créez une offre de stockage"
+  translation: "Créer une offre de stockage"
 
 - id: getstarted_farmstep3
-  translation: "Obtenez des Siacoins des utilisateurs Sia"
+  translation: "Obtenez des Siacoins avec des contrats d'hébergement"
 
 - id: getstarted_farmstep4
   translation: "Suivez le <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">guide d'hébergement Sia</a>"
@@ -597,10 +600,10 @@
   translation: "Miner"
 
 - id: getstarted_mineiconp
-  translation: "Je veux miner des SiaCoins et sécuriser la blockchain"
+  translation: "Je veux miner des SiaCoins pour sécuriser la blockchain"
 
 - id: getstarted_mineh
-  translation: "Pour Miner des Siacoin"
+  translation: "Pour miner des Siacoins"
 
 - id: getstarted_minestep1
   translation: "Télécharger <a href=\"../apps/#miner\">Sia Miner</a>"
@@ -609,7 +612,7 @@
   translation: "Sécuriser le réseau"
 
 - id: getstarted_minestep3
-  translation: "Recevez des Siacoin"
+  translation: "Recevez des Siacoins"
 
 ### develop ###
 - id: getstarted_developiconh
@@ -619,7 +622,7 @@
   translation: "Je veux utiliser Sia pour mes applications"
 
 - id: getstarted_developh
-  translation: "Pour Développer sur Siacoin"
+  translation: "Pour développer avec Sia"
 
 - id: getstarted_developstep1
   translation: "Télécharger le <a href=\"../apps/#daemon\">Démon Sia</a>"
@@ -634,4 +637,4 @@
   translation: "Consultez la <a href=\"https://github.com/NebulousLabs/Sia/tree/master/doc\">documentation</a>"
 
 - id: getstarted_developstep5
-  translation: "Utilisez Sia comme backend de stockage"
+  translation: "Utilisez Sia comme serveur de stockage"
